@@ -39,3 +39,5 @@ See `docs/README.md` for complete documentation.
 - Python 3.8+
 - See `requirements.txt` for dependencies
 - Virtual environment recommended (`.venv`)
+## Demo Video
+https://drive.google.com/drive/folders/1RlDpOmYoqiJS-U33kMpK5eCa1Zg5Pavq?usp=sharing
