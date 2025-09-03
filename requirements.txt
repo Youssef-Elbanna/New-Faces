@@ -1,0 +1,80 @@
+# =============================================================================
+# NewsFaces Project - Complete Requirements
+# =============================================================================
+
+# Core Data Science & Analysis
+numpy>=1.21.0,<2.0.0
+pandas>=1.3.0,<3.0.0
+scipy>=1.7.0
+
+# Web Framework & Dashboard
+streamlit>=1.28.0
+plotly>=5.15.0
+
+# Image Processing & Computer Vision
+Pillow>=8.3.0
+opencv-python>=4.5.0,<5.0.0
+face_recognition>=1.3.0
+
+# Text Processing & NLP
+nltk>=3.6.0
+textblob>=0.15.0
+langdetect>=1.0.9
+
+# Machine Learning & AI
+# Note: These are optional but recommended for full functionality
+scikit-learn>=1.0.0
+keybert>=0.9.0
+transformers>=4.20.0
+sentence-transformers>=2.0.0
+
+# PyTorch (CPU version recommended for compatibility)
+# Uncomment the line below if you want to install PyTorch
+# torch>=1.11.0+cpu --index-url https://download.pytorch.org/whl/cpu
+
+# Web Scraping & Data Extraction
+requests>=2.25.0
+warcio>=1.7.0
+beautifulsoup4>=4.9.0
+lxml>=4.6.0
+
+# Database & Data Management
+# sqlite3 is built into Python, no need to install separately
+
+# Utilities & Helpers
+python-dateutil>=2.8.0
+tqdm>=4.60.0
+click>=8.0.0
+
+# Development & Testing (Optional)
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.9.0
+
+# =============================================================================
+# Installation Notes:
+# =============================================================================
+# 1. Basic installation: pip install -r requirements.txt
+# 2. For ML features: pip install scikit-learn keybert transformers
+# 3. For PyTorch: pip install torch --index-url https://download.pytorch.org/whl/cpu
+# 4. If you encounter issues with heavy ML packages, the project will use mock implementations
+# 5. Minimum Python version: 3.8+
+# 6. Recommended: Use a virtual environment
+# =============================================================================
+warcio
+requests
+beautifulsoup4
+face_recognition
+opencv-python
+dlib
+spacy
+transformers
+streamlit
+SQLAlchemy
+keybert
+textstat
+nltk
+pillow
+langdetect
+torch
+scikit-learn

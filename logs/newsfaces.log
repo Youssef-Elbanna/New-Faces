@@ -1,0 +1,94 @@
+
+2025-09-03 08:55:21,001 - INFO - === Starting NewsFaces Pipeline ===
+2025-09-03 08:55:21,002 - INFO - === Starting Phase 1: WARC processing ===
+2025-09-03 12:19:08,957 - INFO - === Starting NewsFaces Pipeline ===
+2025-09-03 12:19:08,958 - INFO - === Starting Phase 1: WARC processing ===
+2025-09-03 12:19:08,959 - INFO - [1/10] Processing WARC file: CC-MAIN-20230320083513-20230320113513-00000.warc.gz
+2025-09-03 12:19:08,960 - INFO - Saved HTML: data\extracted_data\html\page_0.html
+2025-09-03 12:19:10,355 - INFO - Downloaded image: data\extracted_data\images\page_0_cropped-headder-for-new-website.jpg
+2025-09-03 12:19:10,358 - INFO - Saved HTML: data\extracted_data\html\062d199936.html
+2025-09-03 12:19:11,007 - INFO - Downloaded image: data\extracted_data\images\062d199936_q4gX-hvntnkq9001504.jpg
+2025-09-03 12:19:11,739 - INFO - Downloaded image: data\extracted_data\images\062d199936_WmlG-hinpmnq5018735.jpg
+2025-09-03 12:19:11,922 - INFO - Downloaded image: data\extracted_data\images\062d199936_BJyH-hvvuiyn9251906.jpg
+2025-09-03 12:19:12,117 - INFO - Downloaded image: data\extracted_data\images\062d199936_n9BO-hcscwxa8809947.jpg
+2025-09-03 12:19:12,294 - INFO - Downloaded image: data\extracted_data\images\062d199936_Hmrl-fxpwyhw1683542.jpg
+2025-09-03 12:19:12,295 - INFO - Saved HTML: data\extracted_data\html\229170.html
+2025-09-03 12:19:12,488 - INFO - Downloaded image: data\extracted_data\images\229170_googlelogo_color_272x92dp.png
+2025-09-03 12:19:12,564 - WARNING - Error downloading image http://0hb.gtiuyt.icu/fzgf5p/images/navbg2.jpg: HTTPConnectionPool(host='0hb.gtiuyt.icu', port=80): Max retries exceeded with url: /fzgf5p/images/navbg2.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000020273278750>: Failed to resolve '0hb.gtiuyt.icu' ([Errno 11001] getaddrinfo failed)"))
+2025-09-03 12:19:12,565 - INFO - Saved HTML: data\extracted_data\html\zhifubao.asp
+2025-09-03 12:19:14,348 - INFO - Downloaded image: data\extracted_data\images\zhifubao_731562.jpg
+2025-09-03 12:19:15,868 - INFO - Downloaded image: data\extracted_data\images\zhifubao_zfb.jpg
+2025-09-03 12:19:15,869 - INFO - Saved HTML: data\extracted_data\html\zhifubao.asp
+2025-09-03 12:19:17,364 - INFO - Downloaded image: data\extracted_data\images\zhifubao_731562.jpg
+2025-09-03 12:19:18,885 - INFO - Downloaded image: data\extracted_data\images\zhifubao_zfb.jpg
+2025-09-03 12:19:18,887 - INFO - Saved HTML: data\extracted_data\html\i15233.KURREN_Art_12033.htm
+2025-09-03 12:19:19,519 - INFO - Downloaded image: data\extracted_data\images\i15233.KURREN_Art_12033_free210.jpg
+2025-09-03 12:19:19,719 - INFO - Downloaded image: data\extracted_data\images\i15233.KURREN_Art_12033_153_100x100_3.jpg
+2025-09-03 12:19:20,011 - INFO - Downloaded image: data\extracted_data\images\i15233.KURREN_Art_12033_Instrukciya175.jpg
+2025-09-03 12:19:20,299 - INFO - Downloaded image: data\extracted_data\images\i15233.KURREN_Art_12033_ital_21_.jpg
+2025-09-03 12:19:20,499 - INFO - Downloaded image: data\extracted_data\images\i15233.KURREN_Art_12033_7556_120x120.jpg
+2025-09-03 12:19:20,501 - INFO - Saved HTML: data\extracted_data\html\i15238.KURREN_Art_12038.htm
+2025-09-03 12:19:20,703 - INFO - Downloaded image: data\extracted_data\images\i15238.KURREN_Art_12038_free210.jpg
+2025-09-03 12:19:20,898 - INFO - Downloaded image: data\extracted_data\images\i15238.KURREN_Art_12038_153_100x100_3.jpg
+2025-09-03 12:19:21,189 - INFO - Downloaded image: data\extracted_data\images\i15238.KURREN_Art_12038_Instrukciya175.jpg
+2025-09-03 12:19:21,406 - INFO - Downloaded image: data\extracted_data\images\i15238.KURREN_Art_12038_16901_120x120.jpg
+2025-09-03 12:19:21,705 - INFO - Downloaded image: data\extracted_data\images\i15238.KURREN_Art_12038_ital_21_.jpg
+2025-09-03 12:19:21,708 - INFO - Saved HTML: data\extracted_data\html\139037-1-1.html
+2025-09-03 12:19:22,477 - INFO - Saved HTML: data\extracted_data\html\155390-1-1.html
+2025-09-03 12:19:22,600 - WARNING - Error downloading image http://111br.fun88m.com/template/mb05/images/logoin.png: HTTPConnectionPool(host='111br.fun88m.com', port=80): Max retries exceeded with url: /template/mb05/images/logoin.png (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000020273420450>: Failed to resolve '111br.fun88m.com' ([Errno 11001] getaddrinfo failed)"))
+2025-09-03 12:19:22,601 - WARNING - Error downloading image http://111br.fun88m.com/template/mb05/images/yqf2021.gif: HTTPConnectionPool(host='111br.fun88m.com', port=80): Max retries exceeded with url: /template/mb05/images/yqf2021.gif (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000020273422490>: Failed to resolve '111br.fun88m.com' ([Errno 11001] getaddrinfo failed)"))
+2025-09-03 12:19:22,602 - INFO - Saved HTML: data\extracted_data\html\page_9.html
+2025-09-03 12:19:22,604 - INFO - Saved HTML: data\extracted_data\html\vintage-motorcycle-t-shirt-graphic
+2025-09-03 12:19:23,250 - INFO - Downloaded image: data\extracted_data\images\vintage-motorcycle-t-shirt-graphic_119-new-logo.png
+2025-09-03 12:19:24,472 - INFO - Downloaded image: data\extracted_data\images\vintage-motorcycle-t-shirt-graphic_old-heads-club-LOGO-grunge-768x768.jpg
+2025-09-03 12:19:24,473 - INFO - Saved HTML: data\extracted_data\html\page_11.html
+2025-09-03 12:19:24,879 - INFO - Downloaded image: data\extracted_data\images\page_11_bazén2-300x199-300x199.jpg
+2025-09-03 12:19:25,183 - INFO - Downloaded image: data\extracted_data\images\page_11_cropped-logo_2-1.png
+2025-09-03 12:25:46,965 - INFO - [2/10] Processing WARC file: CC-MAIN-20230320083513-20230320113513-00001.warc.gz
+2025-09-03 12:32:07,950 - INFO - [3/10] Processing WARC file: CC-MAIN-20230320083513-20230320113513-00002.warc.gz
+2025-09-03 12:43:33,730 - INFO - === Starting NewsFaces Pipeline ===
+2025-09-03 12:43:33,731 - INFO - === Starting Phase 1: WARC processing ===
+2025-09-03 12:43:33,731 - INFO - [1/10] Processing WARC file: CC-MAIN-20230320083513-20230320113513-00000.warc.gz
+2025-09-03 12:43:33,732 - INFO - Saved HTML: data\extracted_data\html\page_0.html
+2025-09-03 12:43:34,588 - INFO - Downloaded image: data\extracted_data\images\page_0_cropped-headder-for-new-website.jpg
+2025-09-03 12:43:34,590 - INFO - Saved HTML: data\extracted_data\html\062d199936.html
+2025-09-03 12:43:35,263 - INFO - Downloaded image: data\extracted_data\images\062d199936_BJyH-hvvuiyn9251906.jpg
+2025-09-03 12:43:35,478 - INFO - Downloaded image: data\extracted_data\images\062d199936_G2c1-fzrwica3094416.jpg
+2025-09-03 12:43:35,662 - INFO - Downloaded image: data\extracted_data\images\062d199936_-YzH-fyscsmu6965257.jpg
+2025-09-03 12:43:36,580 - INFO - Downloaded image: data\extracted_data\images\062d199936_qPdU-hfvkitx4452524.jpg
+2025-09-03 12:43:37,246 - INFO - Downloaded image: data\extracted_data\images\062d199936_A2iq-fzihnep7428766.jpg
+2025-09-03 12:43:37,247 - INFO - Saved HTML: data\extracted_data\html\229170.html
+2025-09-03 12:43:37,351 - WARNING - Error downloading image http://0hb.gtiuyt.icu/fzgf5p/images/navbg2.jpg: HTTPConnectionPool(host='0hb.gtiuyt.icu', port=80): Max retries exceeded with url: /fzgf5p/images/navbg2.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000015FD7F52ED0>: Failed to resolve '0hb.gtiuyt.icu' ([Errno 11001] getaddrinfo failed)"))
+2025-09-03 12:43:37,541 - INFO - Downloaded image: data\extracted_data\images\229170_googlelogo_color_272x92dp.png
+2025-09-03 12:43:37,542 - INFO - Saved HTML: data\extracted_data\html\zhifubao.asp
+2025-09-03 12:43:39,225 - INFO - Downloaded image: data\extracted_data\images\zhifubao_731562.jpg
+2025-09-03 12:43:40,741 - INFO - Downloaded image: data\extracted_data\images\zhifubao_zfb.jpg
+2025-09-03 12:43:40,742 - INFO - Saved HTML: data\extracted_data\html\zhifubao.asp
+2025-09-03 12:43:42,227 - INFO - Downloaded image: data\extracted_data\images\zhifubao_731562.jpg
+2025-09-03 12:43:43,732 - INFO - Downloaded image: data\extracted_data\images\zhifubao_zfb.jpg
+2025-09-03 12:43:43,735 - INFO - Saved HTML: data\extracted_data\html\i15233.KURREN_Art_12033.htm
+2025-09-03 12:43:43,938 - INFO - Downloaded image: data\extracted_data\images\i15233.KURREN_Art_12033_2basket.png
+2025-09-03 12:43:44,220 - INFO - Downloaded image: data\extracted_data\images\i15233.KURREN_Art_12033_ital_21_.jpg
+2025-09-03 12:43:44,410 - INFO - Downloaded image: data\extracted_data\images\i15233.KURREN_Art_12033_7556_120x120.jpg
+2025-09-03 12:43:44,602 - INFO - Downloaded image: data\extracted_data\images\i15233.KURREN_Art_12033_15233_250x250.jpg
+2025-09-03 12:43:44,792 - INFO - Downloaded image: data\extracted_data\images\i15233.KURREN_Art_12033_153_100x100_3.jpg
+2025-09-03 12:43:44,793 - INFO - Saved HTML: data\extracted_data\html\i15238.KURREN_Art_12038.htm
+2025-09-03 12:43:44,994 - INFO - Downloaded image: data\extracted_data\images\i15238.KURREN_Art_12038_2basket.png
+2025-09-03 12:43:45,282 - INFO - Downloaded image: data\extracted_data\images\i15238.KURREN_Art_12038_ital_21_.jpg
+2025-09-03 12:43:45,471 - INFO - Downloaded image: data\extracted_data\images\i15238.KURREN_Art_12038_153_100x100_3.jpg
+2025-09-03 12:43:46,162 - INFO - Downloaded image: data\extracted_data\images\i15238.KURREN_Art_12038_13447294
+2025-09-03 12:43:46,355 - INFO - Downloaded image: data\extracted_data\images\i15238.KURREN_Art_12038_at_1click_btn1.png
+2025-09-03 12:43:46,359 - INFO - Saved HTML: data\extracted_data\html\139037-1-1.html
+2025-09-03 12:43:46,904 - INFO - Saved HTML: data\extracted_data\html\155390-1-1.html
+2025-09-03 12:43:46,984 - WARNING - Error downloading image http://111br.fun88m.com/template/mb05/images/logoin.png: HTTPConnectionPool(host='111br.fun88m.com', port=80): Max retries exceeded with url: /template/mb05/images/logoin.png (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000015FD910AFD0>: Failed to resolve '111br.fun88m.com' ([Errno 11001] getaddrinfo failed)"))
+2025-09-03 12:43:46,986 - WARNING - Error downloading image http://111br.fun88m.com/template/mb05/images/yqf2021.gif: HTTPConnectionPool(host='111br.fun88m.com', port=80): Max retries exceeded with url: /template/mb05/images/yqf2021.gif (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000015FD9109B90>: Failed to resolve '111br.fun88m.com' ([Errno 11001] getaddrinfo failed)"))
+2025-09-03 12:43:46,987 - INFO - Saved HTML: data\extracted_data\html\page_9.html
+2025-09-03 12:43:46,989 - INFO - Saved HTML: data\extracted_data\html\vintage-motorcycle-t-shirt-graphic
+2025-09-03 12:43:47,501 - INFO - Downloaded image: data\extracted_data\images\vintage-motorcycle-t-shirt-graphic_119-new-logo.png
+2025-09-03 12:43:48,656 - INFO - Downloaded image: data\extracted_data\images\vintage-motorcycle-t-shirt-graphic_old-heads-club-LOGO-grunge-768x768.jpg
+2025-09-03 12:43:48,657 - INFO - Saved HTML: data\extracted_data\html\page_11.html
+2025-09-03 12:43:48,953 - INFO - Downloaded image: data\extracted_data\images\page_11_cropped-logo_2-1.png
+2025-09-03 12:43:49,184 - INFO - Downloaded image: data\extracted_data\images\page_11_bazén2-300x199-300x199.jpg
+2025-09-03 12:43:49,184 - INFO - [2/10] Processing WARC file: CC-MAIN-20230320083513-20230320113513-00001.warc.gz
+2025-09-03 12:43:49,185 - INFO - [3/10] Processing WARC file: CC-MAIN-20230320083513-20230320113513-00002.warc.gz
+2025-09-03 12:43:49,185 - INFO - [4/10] Processing WARC file: CC-MAIN-20230320083513-20230320113513-00003.warc.gz

@@ -1,0 +1,29 @@
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+Pillow>=8.3.0
+requests>=2.25.0
+
+# Face recognition (when available)
+# face-recognition>=1.3.0
+# dlib>=19.22.0
+
+# Web framework
+streamlit>=1.28.0
+plotly>=5.15.0
+
+# Database
+sqlite3
+
+# Image processing
+opencv-python>=4.5.0
+
+# Text processing
+nltk>=3.6.0
+textblob>=0.15.0
+
+# WARC processing
+warcio>=1.7.0
+
+# Utilities
+python-dateutil>=2.8.0
